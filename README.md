@@ -1,4 +1,4 @@
-🛡️ Spam Email Detector
+#🛡️ Spam Email Detector
 
 A web-based application developed using HTML, CSS, and JavaScript to identify potentially suspicious email messages through keyword-based analysis and promote cybersecurity awareness.
 
