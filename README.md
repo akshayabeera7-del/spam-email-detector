@@ -1,16 +1,16 @@
-#🛡️ Spam Email Detector
+# Spam Email Detector
 
 A web-based application developed using HTML, CSS, and JavaScript to identify potentially suspicious email messages through keyword-based analysis and promote cybersecurity awareness.
 
 ---
 
-📖 Overview
+## Overview
 
 Spam Email Detector is a lightweight front-end application that analyzes email content using predefined spam-related keywords. The system instantly classifies emails as Spam or Safe, helping users recognize suspicious messages while demonstrating core web development and JavaScript concepts.
 
 ---
 
-✨ Features
+## Features
 
 - ✅ Keyword-based spam detection
 - ✅ Instant email classification
@@ -21,7 +21,7 @@ Spam Email Detector is a lightweight front-end application that analyzes email c
 
 ---
 
-🛠 Technologies Used
+## Technologies Used
 
 - HTML5 – Page Structure
 - CSS3 – Styling & Responsive Design
@@ -29,7 +29,7 @@ Spam Email Detector is a lightweight front-end application that analyzes email c
 
 ---
 
-⚙️ How It Works
+## How It Works
 
 1. The user enters email content.
 2. JavaScript scans the text for spam-related keywords.
@@ -39,7 +39,7 @@ Spam Email Detector is a lightweight front-end application that analyzes email c
 
 ---
 
-📂 Project Structure
+## Project Structure
 
 spam-email-detector/
 │── index.html
@@ -49,7 +49,7 @@ spam-email-detector/
 
 ---
 
-🎯 Applications
+## Applications
 
 - Cybersecurity Awareness
 - Spam Email Identification
@@ -59,7 +59,7 @@ spam-email-detector/
 
 ---
 
-🚀 Future Enhancements
+## Future Enhancements
 
 - Machine Learning-based Spam Detection
 - Natural Language Processing (NLP)
@@ -71,7 +71,7 @@ spam-email-detector/
 
 ---
 
-📚 Learning Outcome
+## Learning Outcome
 
 This project helped me improve my understanding of:
 
@@ -85,7 +85,7 @@ This project helped me improve my understanding of:
 
 ---
 
-👨‍💻 Author
+## Author
 
 Beera Akshaya
 
@@ -101,6 +101,6 @@ Areas of Interest
 
 ---
 
-🏷️ Project Category
+## Project Category
 
 Cybersecurity | Front-End Web Development | JavaScript Project
